@@ -1,0 +1,29 @@
+# Furadeira de Paywall Extension
+
+## Descrição
+
+A extensão Furadeira de Paywall permite que você acesse contorne paywalls por meio do site archive.ph.
+
+## Instalação
+
+1. Clone o repositório para o seu computador:
+    ```sh
+    git clone https://github.com/seu-usuario/drill_paywall.git
+    ```
+2. Abra o navegador e vá para a página de extensões.
+3. Ative o modo de desenvolvedor.
+4. Clique em "Carregar sem compactação" e selecione a pasta da extensão.
+
+## Uso
+
+1. Após a instalação, clique no ícone da extensão na barra de ferramentas do navegador.
+2. Navegue até o site de notícias ou blog que você deseja acessar.
+3. A extensão irá automaticante te encaminhar para o link equivalente no archive.ph.
+
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests no repositório.
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT. 
